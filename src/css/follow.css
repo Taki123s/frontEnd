@@ -1,0 +1,64 @@
+.follow_page {
+    
+    width: 80%;
+     margin: 0 auto ;
+    text-align: center;
+}
+.title_movie_follow {
+    filter: none !important;
+    color: rgb(154, 43, 43);
+}
+.element {
+    
+    display: flex;
+    flex-direction: column;
+}
+
+.title_element {
+    display: flex;
+    align-items: center;
+}
+
+.title_element > span {
+    flex: 1; /* Each span takes equal width */
+    padding: 10px;
+    text-align: center;
+    font-size: 20px;
+    color:rgb(85, 84, 84) !important ;
+    /* font-weight: bold; */
+}
+
+.movie_element_list {
+    display: flex;
+    flex-direction: column;
+}
+
+.movie {
+    display: flex;
+    align-items: center;
+    background-color: #fff; /* White background color for movie rows */
+    border-top: 1px solid  rgb(243, 240, 240); /* Gray border at the top of each movie row */
+}
+.movie .title_movie{
+    text-align: left !important;
+}
+.movie .image_movie, .title_element .image_movie{
+        text-align: left !important;
+
+}
+
+.movie > span {
+    flex: 1; /* Each span takes equal width */
+    padding: 10px;
+    text-align: center;
+
+}
+
+.image_movie img {
+    width: 150px;
+    height: 70px;
+}
+
+.movie_icon {
+    cursor: pointer;
+}

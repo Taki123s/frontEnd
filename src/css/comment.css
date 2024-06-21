@@ -1,0 +1,38 @@
+.commentDisplay >h6{
+    max-width: 70%!important;
+    line-height: 1.5em;
+    word-wrap: break-word;
+}
+.root0 >.replyBase button,.moreCmt{
+    margin-left: 10%!important;
+}
+.root0 .replyBase >button,.moreCmt{
+    margin-top: 2%!important;
+
+}
+.root0{
+    margin-top: 5%!important;
+}
+.root0 >.replyBase textarea{
+
+    margin-left: 10%!important;
+
+}
+.replyBase textarea{
+    width: 90%!important;
+    height: 100px!important;
+
+}
+
+.formComment{
+    margin-top: 5%!important;
+}
+.notPadding{
+    padding-left: 10%!important;
+}
+.rmButton{
+    float: right;
+}
+.root0 .blog__details__comment__item.blog__details__comment__item--reply{
+    margin-top: 5%!important;
+}

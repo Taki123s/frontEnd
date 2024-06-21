@@ -1,0 +1,173 @@
+{
+  "menu": {
+    "hompage": "Home Page",
+    "categories": "Categories",
+    "contracts": "Contacts",
+    "home": "Home",
+    "login": "Login",
+    "signup": "Sign Up",
+    "servicepack": "Service Pack",
+    "english1-1": "English 1-1"
+  },
+  "button": {
+    "follow": "Follow",
+    "login": "Login Now",
+    "signup": "Register Now",
+    "forget": "Forgot Your Password?",
+    "rate": "Rate",
+    "add": "Add",
+    "delete": "Delete",
+    "edit": "Edit",
+    "episodes": "Movie Episodes",
+    "watch": "Watch now",
+    "payOder": "Pay",
+    "payAllOder": "Pay All",
+    "remove": "Remove",
+    "removeAll": "Remove All"
+  },
+  "login": {
+    "message": "Don't Have An Account?",
+    "helloguest": "Hello guest!",
+    "username": "Use Name",
+    "password": "Password",
+    "remember": "Remember",
+    "passwordagain": "Re-Enter",
+    "editinformation": "Edit information",
+    "history": "History"
+  },
+  "signup": {
+    "message": "Already have an account?",
+    "fullname": "Full Name",
+    "email": "Email",
+    "phone": "Phone"
+  },
+  "header": {
+    "account": "Account Management",
+    "follow": "Follow",
+    "Gotodashboard":"Go to dashboard",
+    "aboutus":"About us"
+
+  },
+  "content": {
+    "addcommnent":"Add new comment",
+
+    "reply":"Reply",
+    "infor":"Information",
+    "showless":"Show less",
+    "time":"Time",
+    "logout": "Log out",
+    "showmore": "Show more",
+    "clearall": "Remove all",
+    "latestupdate": "Latest Update",
+    "nonotification": "No notification",
+    "liked": "Liked",
+    "ordered": "Ordered",
+    "moviedetail": "Movie Detail",
+    "listnewanime": "New Movie List :",
+    "topview": "Top Views",
+    "reviews": "Reviews",
+    "comment": "Comment",
+    "review": "Send",
+    "welcome": "Welcome ",
+    "newmoive": "Add new movies :",
+    "namemoive": "Name:",
+    "pic": "Avatar:",
+    "category": "Category:",
+    "chapter": "Total episodes:",
+    "description": "Description:",
+    "accountlist": "Account List :",
+    "post": "Post a new post",
+    "file": "File Word:",
+    "upload": "Upload Avatar",
+    "postdate": "Post date:",
+    "up": "Post",
+    "listpost": "Post list:",
+    "tilte": "Title:",
+    "upfile": "Up files .doc or .docx",
+    "langue": "Languages",
+    "vote": "Vote",
+    "type": "Type",
+    "duration": "Duration:",
+    "quality": "Quality:",
+    "views": "Views:",
+    "votes": "Votes",
+    "vn": "VietNam",
+    "en": "English",
+    "logingg": "Login With Google",
+    "wishlist": "Wish List",
+    "wallet": "Wallet",
+    "recharge": "Recharge Money",
+    "forgotpassword": "Forgot Password ?",
+    "deposit": "Select the denomination you want to deposit:",
+    "seedetail": "See details",
+    "transactionhistory": "Transaction history",
+    "fluctuations": "Balance fluctuations",
+    "paypaldec": "Recharge from PayPal",
+    "buyMovie": "Buy Movies.",
+    "producer": "Producer:",
+    "bonus": "Bonus",
+    "selectedMovie": "Selected movies:",
+    "totalOder": "Total order cost:",
+    "detailInfor": "View account information",
+    "fb": "Login Facebook",
+    "purchase": "Purchased Movies",
+    "chagepass": "Change Password"
+  },
+  "admin": {
+    "menu": {
+      "managemoive": "Movie Management",
+      "manageuser": "User Management",
+      "manageblog": "Blog Management"
+    },
+    "edit": "Edit detail movie",
+    "chagevideo": "Change video:",
+    "opening": "Opening time:",
+    "listchap": "List episodes",
+    "addnewep": "Add new episodes:",
+    "file": "File MP4:",
+    "editblog": "Edit Blog detail",
+    "daterelease": "Date release:"
+  },
+  "sort": {
+    "decrease": "Decrease",
+    "ascending": "Ascending",
+    "oldest": "Oldest",
+    "new": "Latest",
+    "choose": "---All---",
+    "sort": "Filter"
+  },
+  "genres":{
+
+  "day": "Day",
+  "month": "Month",
+  "year": "Year",
+  "Action": "Action",
+  "Comedy": "Comedy",
+  "Fanciful": "Fanciful",
+  "Drama": "Drama",
+  "Horror": "Horror",
+  "Romantic": "Romantic",
+  "viewall": "View All"
+  }
+  ,"follow":{
+  "favoritemovielist":"favorite movie list",
+  "image":"Image",
+  "moviename":"Movie Name",
+  "time":"Time",
+  "view":"View",
+  "emptylist":"You have not followed any movies yet.",
+  "Error": "Error",
+  "login_error":"Please log in to see your favorite movies."
+  },"changpass":{
+    "changepassword":"Change Password",
+    "old_password":"Old password",
+    "new_password":"New password",
+
+    "password_confirmation":"Password confirmation",
+    "username":"User name",
+    "email":"Email",
+    "fullname":"Full name"
+
+
+  }
+}
